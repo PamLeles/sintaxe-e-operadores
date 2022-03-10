@@ -1,2 +1,2 @@
 # sintaxe-e-operadores
-Atividade Práticaa de javascript.
+Atividade Prática de javascript.
