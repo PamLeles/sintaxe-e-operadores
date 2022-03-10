@@ -1,0 +1,25 @@
+Algumas anotações referentes a aula de Sintaxe e Operadores:
+
+Operadores de Comparação:
+operador		descrição
+==		igual a 
+===		Mesmo valopr e mesmo tipo
+!=		diferente
+!==		valor e tipos diferentes
+>		Maior que
+<		Menor que 
+>= 		Maior ou igual
+<=		Menor ou igual
+
+Atividade/ Desafio
+* Crie uma função que recebe dois números como parâmetros ;
+* Confira se os números é maior que 10 ou menor que 20;
+* Retorne uma string dizendo "os números 'numb1' e 'numb2' não/são
+iguais, Sua soma e 'soma', que é 'maior/menor' que 10 e 'maior/menor'
+que 20;
+----------------------------------------------------------------------------------------
+exemplo:
+Input:1,2
+Output: os números 1 e 2 não são iguais. Sua soma é 3. e que é menor 
+que 10 e menor que 20.
+
